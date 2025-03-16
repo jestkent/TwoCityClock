@@ -2,7 +2,7 @@
 
 An animated aquarium-themed world clock application designed especially for couples and families in long-distance relationships.
 
-![World Clock App Screenshot](https://placeholder.com/worldclock-screenshot)
+![World Clock App Screenshot](https://github.com/jestkent/TwoCityClock/blob/d097c362bbcf81b0acb2ca9ce510de34910bb637/HowItLooks.png)
 
 ## Overview
 
@@ -26,7 +26,7 @@ Perfect for:
 ## Installation
 
 ### Windows Users (.exe file)
-1. Download the latest release from the [Releases](https://github.com/yourusername/worldclock/releases) page
+1. Download the latest release from the [Releases](https://github.com/jestkent/TwoCityClock/tree/d097c362bbcf81b0acb2ca9ce510de34910bb637) page
 2. Extract the ZIP file to your preferred location
 3. Run the `WorldClock.exe` file - no installation needed!
 
